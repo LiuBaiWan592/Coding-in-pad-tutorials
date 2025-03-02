@@ -8,11 +8,11 @@ Termux X11可以在Android手机跑X服务器，这意味着什么呢？ 首先�
 
 1. 安装好Termux后，登入Github账号，到Termux-x11的[Github workflows](https://github.com/termux/termux-x11/actions/workflows/debug_build.yml)下载zip文件，注意后面的branch是`master`，找到最新进入。
 
-   ![7](img\7.png) 
+   ![7](./img/7.png) 
 
 2. 进入后下拉，下载第一个文件`termux-companion packages`和第二个文件 `termux-x11-arm64-v8a-debug`。
 
-   ![8](img\8.png)
+   ![8](./img/8.png)
 
 3. 解压缩`termux-x11-arm64-v8a-debug.zip`，得到`app-arm64-v8a-debug.apk`，将其发送到平板并安装。
 
@@ -30,7 +30,7 @@ Termux X11可以在Android手机跑X服务器，这意味着什么呢？ 首先�
 
 1. 安装好Termux后，登入Github账号，到Termux-x11的[Github workflows](https://github.com/termux/termux-x11/actions/workflows/debug_build.yml)下载zip文件，注意后面的branch是`master`，我这里使用的是2023年7月24日的版本
 
-   ![12](img\12.png)
+   ![12](./img/12.png)
 
    * 注意这里的`termux-x11-arm64-v8a-debug`和`termux-companion packages`版本要对应。
 

@@ -40,11 +40,11 @@ Abstract：本文将介绍如何实现在平板电脑中安装vscode，从而避
 ## 三、操作步骤
 
 1. [安装配置Termux](1_Termux.md)
-2. [防止Termux被系统杀死](2_Phantom Processes Killing.md)
+2. [防止Termux被系统杀死](2_Phantom_Processes_Killing.md)
 3. [安装配置Termux-x11](3_Termux-x11.md)
 4. [启用GPU硬件加速](4_GPU_virglrenderer.md)
 5. [安装配置proot-distro并安装Debian](5_proot-distro.md)
-6. [配置Debian系统](6_Configure Debian.md)
+6. [配置Debian系统](6_Configure_Debian.md)
 7. [安装配置XFCE4桌面环境](7_XFCE4.md)
-8. [手动、一键进入桌面环境](8_Enter desktop.md)
+8. [手动、一键进入桌面环境](8_Enter_Desktop.md)
 10. [安装配置vscode](9_vscode)

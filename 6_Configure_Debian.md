@@ -27,7 +27,7 @@
       cat /etc/os-release
       ```
 
-      ![10](img\10.png)
+      ![10](./img/10.png)
 
       我当前使用的版本是Debian GNU/Linux 12 （bookworm）
 

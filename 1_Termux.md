@@ -1,6 +1,6 @@
 # 如何在平板中安装Termux
 
-![Termux_logo](img\1.Termux_logo.png)
+![Termux_logo](./img/1.Termux_logo.png)
 
 ## 一、Termux介绍
 
@@ -12,11 +12,11 @@ Google Play上的Termux已经没在更新了，请到[F-Droid](https://f-droid.o
 
 Termux要求系统为Android 7以上的Android设备。
 
-![2](img\2.png)
+![2](./img/2.png)
 
 点击`Download APK`下载安装文件。
 
-![3.](img\3..png)
+![3.](./img/3..png)
 
 然后将安装包上传到平板上安装即可。
 
@@ -36,11 +36,11 @@ Termux要求系统为Android 7以上的Android设备。
 
 4. 按键盘上下键切换到 `Single mirror`，再按下Enter确认。
 
-   ![3-1](img\3-1.png)
+   ![3-1](./img/3-1.png)
 
 5. 选择`Mirrors in China`，按下Enter确认。
 
-   ![3-2](img\3-2.png)
+   ![3-2](./img/3-2.png)
 
 ## 三、Termux配置使用
 

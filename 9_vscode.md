@@ -10,11 +10,11 @@ Debian包是[Unix](https://zh.wikipedia.org/wiki/Unix)[ar](https://zh.wikipedia.
 
 1. vscode官方给出了Debian中[vscode](https://code.visualstudio.com/docs/setup/linux)的安装方式
 
-   ![22](img\22.png)
+   ![22](./img/22.png)
 
 2. 前往官网[下载](https://code.visualstudio.com/Download)deb文件安装包`code_1.82.0-1694038208_arm64.deb`
 
-   ![23](img\23.png)
+   ![23](./img/23.png)
 
 3. 在Debian中安装deb文件。
 
@@ -25,11 +25,11 @@ Debian包是[Unix](https://zh.wikipedia.org/wiki/Unix)[ar](https://zh.wikipedia.
 
 4. 在桌面上右键，创建启动器
 
-   ![24](img\24.png)
+   ![24](./img/24.png)
 
 5. 输入名称，命令和图标，命令如下，参数`--no-sandbox`在关系沙箱下启动，否则报错
 
-   ![25](img\25.png)
+   ![25](./img/25.png)
 
    ```shell
    code --no-sandbox

@@ -14,7 +14,7 @@ Android12系统将会监控APP所fork出来的子行程，并在达到32个以�
 
 1. 到Android官网[下载](https://developer.android.com/studio/releases/platform-tools)对应版本的Platform Tools，我这里使用Windows版，解压缩。
 
-   ![4](img\4.png)
+   ![4](./img/4.png)
 
 2. 进入`platform_tools`目录，会看到ADB和Fastboot的执行文件。 在这里按SHIFT + 右键，开启终端机（或Powershell）。
 
@@ -28,13 +28,13 @@ Android12系统将会监控APP所fork出来的子行程，并在达到32个以�
 
 5. 前两次输入结果如下，首次输入adb devices,出现的前两句，是正在启动adb服务；第二次输入出现的原因未成功连接设备，很可能是缺少驱动。（参考[adb连接不上手机，提示“List of devices attached”](https://www.cnblogs.com/aszeno/p/15512323.html)）
 
-   ![5](img\5.png)
+   ![5](./img/5.png)
 
 6. 前去荣耀官网下载[suite荣耀手机助理](https://www.hihonor.com/cn/tech/honor-suite/ "hihonor.com")并安装，打开将自动安装所需要的驱动。
 
 7. 将平板与电脑成功连接后执行 ` adb devices ` 显示如下：
 
-   ![6](img\6.png)
+   ![6](./img/6.png)
 
 8. 接着按照Android版本，执行以下指令。
 

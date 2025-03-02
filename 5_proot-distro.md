@@ -23,7 +23,7 @@
 
 3. 目前有Alpine Linux、Arch Linux、Debian、Fedora、openSUSE、Ubuntu、Void Linux、Pardus Linux
 
-   ![9](img\9.png)
+   ![9](./img/9.png)
 
 4. 假设要安装Debian，执行：
 
